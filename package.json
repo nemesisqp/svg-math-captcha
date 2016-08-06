@@ -1,0 +1,21 @@
+{
+  "name": "svg-math-captcha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nemesisqp/svg-math-captcha.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nemesisqp/svg-math-captcha/issues"
+  },
+  "homepage": "https://github.com/nemesisqp/svg-math-captcha#readme",
+  "dependencies": {
+  }
+}
